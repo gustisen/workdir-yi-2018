@@ -7,9 +7,9 @@
 ##6.3.2
 
  * https://github.com/mkenney/docker-npm/blob/master/node-8-debian/Dockerfile
- * : le volume src/
- * : docker image pull mkenney/npm:node-8-debian
- * : id : 9af19a7f4e2c
+ * le volume src/
+ * docker image pull mkenney/npm:node-8-debian
+ * id : 9af19a7f4e2c
 
 ##6.3.3 
  

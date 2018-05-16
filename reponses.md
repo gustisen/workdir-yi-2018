@@ -50,3 +50,7 @@
  * docker container run --rm -ti -v $(pwd):/src -v gradle-home:/home/gradle/.gradle -w /src -p 8001:8080 gradle:4.7.0-jdk8-alpine gradle bootRun
  * {"articles":[],"articlesCount":0}
 
+##6.5.1
+
+ * {"articles":[{"id":"b6ad1b4f-df55-4342-b958-213f6bcce717","slug":"toto","title":"toto","description":"tata","body":"tonton","favorited":false,"favoritesCount":0,"createdAt":"2018-05-16T13:52:53.998Z","updatedAt":"2018-05-16T13:52:53.998Z","tagList":[],"author":{"username":"gustisen","bio":"","image":"https://static.productionready.io/images/smiley-cyrus.jpg","following":false}}],"articlesCount":1}
+
